@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/jaraco/jaraco.text/commit/080a0367127ed86c2e1982ae4bd3c1086084927f",
       "git:hexsha": "080a0367127ed86c2e1982ae4bd3c1086084927f",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-18T01:57:56.848481+00:00"
     },
     {
       "@id": "https://repolex.ai/r/jaraco/jaraco.text/commit/815b441a53c0e396ff779ffe8c88b871a244c374",
