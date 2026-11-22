@@ -92,6 +92,225 @@
       ],
       "ast": [
         "aggregate/ast/3c3aa2c70e85fd25d0157d5699f0b1c72d57b349/chunk-001.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/3c3aa2c70e85fd25d0157d5699f0b1c72d57b349.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "jaraco-context",
+          "ecosystem": "PYPI",
+          "version": "4.1",
+          "githubOrg": "jaraco",
+          "githubRepo": "jaraco.context",
+          "githubUrl": "https://github.com/jaraco/jaraco.context",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "jaraco-functools",
+          "ecosystem": "PYPI",
+          "version": "4.6.0",
+          "githubOrg": "jaraco",
+          "githubRepo": "jaraco.functools",
+          "githubCommit": "f7f4f3bcac8f70e01064dee9a8bde6cc8f997a17",
+          "githubTag": "v4.6.0",
+          "githubUrl": "https://github.com/jaraco/jaraco.functools",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "more-itertools",
+          "ecosystem": "PYPI",
+          "version": "11.2.1",
+          "githubOrg": "more-itertools",
+          "githubRepo": "more-itertools",
+          "githubCommit": "4aeb4338ae1407d8da9723e86da99efeb446f719",
+          "githubTag": "v11.2.1",
+          "githubUrl": "https://github.com/more-itertools/more-itertools",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "typer-slim",
+          "ecosystem": "PYPI",
+          "version": "0.24.0",
+          "githubOrg": "fastapi",
+          "githubRepo": "typer",
+          "githubCommit": "71bf168861558dff0944ab4d8cb7686f509d6e96",
+          "githubTag": "0.24.0",
+          "githubUrl": "https://github.com/fastapi/typer",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "pytest",
+          "ecosystem": "PYPI",
+          "version": "6",
+          "githubOrg": "pytest-dev",
+          "githubRepo": "pytest",
+          "githubUrl": "https://github.com/pytest-dev/pytest",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "pathlib2",
+          "ecosystem": "PYPI",
+          "version": "2.3.7.post1",
+          "githubOrg": "jazzband",
+          "githubRepo": "pathlib2",
+          "githubUrl": "https://github.com/jazzband/pathlib2",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "sphinx",
+          "ecosystem": "PYPI",
+          "version": "3.5",
+          "githubOrg": "sphinx-doc",
+          "githubRepo": "sphinx",
+          "githubUrl": "https://github.com/sphinx-doc/sphinx",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "jaraco-packaging",
+          "ecosystem": "PYPI",
+          "version": "9.3",
+          "githubOrg": "jaraco",
+          "githubRepo": "jaraco.packaging",
+          "githubUrl": "https://github.com/jaraco/jaraco.packaging",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "rst-linker",
+          "ecosystem": "PYPI",
+          "version": "1.9",
+          "githubOrg": "jaraco",
+          "githubRepo": "rst.linker",
+          "githubCommit": "1c401270bf6df04aa6ae4f750e13364b6fb2b74c",
+          "githubTag": "1.9",
+          "githubUrl": "https://github.com/jaraco/rst.linker",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "furo",
+          "ecosystem": "PYPI",
+          "version": "2025.12.19",
+          "githubOrg": "pradyunsg",
+          "githubRepo": "furo",
+          "githubCommit": "dd9e9f920494f24b9b8dd954ec9d07e0b9d12817",
+          "githubTag": "2025.12.19",
+          "githubUrl": "https://github.com/pradyunsg/furo",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "sphinx-lint",
+          "ecosystem": "PYPI",
+          "version": "1.0.2",
+          "githubOrg": "sphinx-contrib",
+          "githubRepo": "sphinx-lint",
+          "githubCommit": "c883505f64b59c3c5c9375191e4ad9f98e727ccd",
+          "githubTag": "v1.0.2",
+          "githubUrl": "https://github.com/sphinx-contrib/sphinx-lint",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "jaraco-tidelift",
+          "ecosystem": "PYPI",
+          "version": "1.4",
+          "githubOrg": "jaraco",
+          "githubRepo": "jaraco.tidelift",
+          "githubUrl": "https://github.com/jaraco/jaraco.tidelift",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "inflect",
+          "ecosystem": "PYPI",
+          "version": "7.6.0",
+          "githubOrg": "jaraco",
+          "githubRepo": "inflect",
+          "githubCommit": "f51d6c43580a717c7a04b71779e61b9979851015",
+          "githubTag": "v7.6.0",
+          "githubUrl": "https://github.com/jaraco/inflect",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "pytest-checkdocs",
+          "ecosystem": "PYPI",
+          "version": "2.4",
+          "githubOrg": "jaraco",
+          "githubRepo": "pytest-checkdocs",
+          "githubUrl": "https://github.com/jaraco/pytest-checkdocs",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "pytest-ruff",
+          "ecosystem": "PYPI",
+          "version": "0.2.1",
+          "githubOrg": "businho",
+          "githubRepo": "pytest-ruff",
+          "githubCommit": "2098829cfb8f95c2885c6dec3e229ed3092e2c1e",
+          "githubTag": "v0.2.1",
+          "githubUrl": "https://github.com/businho/pytest-ruff",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "pytest-cov",
+          "ecosystem": "PYPI",
+          "version": "7.1.0",
+          "githubOrg": "pytest-dev",
+          "githubRepo": "pytest-cov",
+          "githubCommit": "66c8a526b1246b5eb8fb1bc218878131bc628622",
+          "githubTag": "v7.1.0",
+          "githubUrl": "https://github.com/pytest-dev/pytest-cov",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "pytest-enabler",
+          "ecosystem": "PYPI",
+          "version": "3.4",
+          "githubOrg": "jaraco",
+          "githubRepo": "pytest-enabler",
+          "githubUrl": "https://github.com/jaraco/pytest-enabler",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "pytest-mypy",
+          "ecosystem": "PYPI",
+          "version": "1.0.1",
+          "githubOrg": "realpython",
+          "githubRepo": "pytest-mypy",
+          "githubCommit": "1b3e931cb6ff00b47436455c69e3cd978b745479",
+          "githubTag": "v1.0.1",
+          "githubUrl": "https://github.com/realpython/pytest-mypy",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "mypy",
+          "ecosystem": "PYPI",
+          "version": "1.19",
+          "githubOrg": "python",
+          "githubRepo": "mypy",
+          "githubUrl": "https://github.com/python/mypy",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "typer",
+          "ecosystem": "PYPI",
+          "version": "0.29.2",
+          "githubOrg": "fastapi",
+          "githubRepo": "typer",
+          "githubCommit": "2517edde5a1292a712e2f16e600754c52c6f00d9",
+          "githubTag": "0.29.2",
+          "githubUrl": "https://github.com/fastapi/typer",
+          "source": "lsp",
+          "install_path": "/home/runner/.local/share/uv/tools/repolex/lib/python3.13/site-packages/typer/main.py"
+        },
+        {
+          "packageName": "typing-extensions",
+          "ecosystem": "PYPI",
+          "version": "4.16.0",
+          "githubOrg": "python",
+          "githubRepo": "typing_extensions",
+          "githubCommit": "f29cd28d8ed7642cafb1d18daf5aa41be6a5c0aa",
+          "githubTag": "4.16.0",
+          "githubUrl": "https://github.com/python/typing_extensions",
+          "source": "lsp",
+          "raw_name": "typing_extensions.py",
+          "install_path": "/home/runner/.local/share/uv/tools/repolex/lib/python3.13/site-packages/typing_extensions.py"
+        }
       ]
     }
   ],
