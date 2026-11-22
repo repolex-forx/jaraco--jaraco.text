@@ -3,6 +3,11 @@
   "repo": "jaraco.text",
   "versions": [
     {
+      "commit": "3c3aa2c70e85fd25d0157d5699f0b1c72d57b349",
+      "tag": "v4.2.0",
+      "parsed_at": "2026-11-22T08:39:43.756168+00:00"
+    },
+    {
       "commit": "080a0367127ed86c2e1982ae4bd3c1086084927f",
       "tag": "",
       "parsed_at": "2026-10-18T01:57:56.849135+00:00"
